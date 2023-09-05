@@ -73,9 +73,9 @@ banner2 = f"""
         ░█▀▀█ █──█ █▀▀█ █▀▀▄ █▀▀ ░█▀▀▀█ █▀▀█ █── █▀▀█ ─▀─ ▀▀█▀▀ 　 ░█▀▀█ █▀▀█ █▀▀█ 
         ░█▄▄█ █▀▀█ █──█ █──█ █▀▀ ─▀▀▀▄▄ █──█ █── █──█ ▀█▀ ──█── 　 ░█▄▄█ █▄▄▀ █──█ 
         ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
+    
+        By Md. Najib Islam (DeveloperNajib)
 
-
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
 """
 
 banner3 = f"""
@@ -83,8 +83,8 @@ banner3 = f"""
         █▀█ █░█ █▀█ █▄░█ █▀▀ █▀ █▀█ █░░ █▀█ █ ▀█▀   █▀█ █▀█ █▀█
         █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
 
+        By Md. Najib Islam (DeveloperNajib)
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
 """
 
 banner4 = f"""
@@ -94,9 +94,9 @@ banner4 = f"""
     |    |   |   Y  (  <_> )   |  \  ___/ /        \  |_> >  |_(  <_> )  ||  |    |    |     |  | \(  <_> ) 
     |____|   |___|  /\____/|___|  /\___  >_______  /   __/|____/\____/|__||__|    |____|     |__|   \____/
                   \/            \/     \/        \/|__|                                                      
+    
+    By Md. Najib Islam (DeveloperNajib)
 
-
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
 """
 banner5 = f"""
        ___  __                 ____     __     _ __     ___         
@@ -104,8 +104,9 @@ banner5 = f"""
      / ___/ _ \/ _ \/ _ \/ -_)\ \/ _ \/ / _ \/ / __/  / ___/ __/ _ \\
     /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
                                /_/                                                                                                      
+    
+    By Md. Najib Islam (DeveloperNajib)
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
 """
 
 banner6 = f"""
@@ -115,8 +116,8 @@ banner6 = f"""
      / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_     / ____/ /  / /_/ /
     /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/    /_/   /_/   \____/
                                      /_/                                                                                                       
-    
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/AzeemIdrisi
+        
+    By Md. Najib Islam (DeveloperNajib)
 
 """
 
@@ -130,8 +131,8 @@ banner10 = f"""
         \/_/    \/_/\/_/\/___/  \/_/\/_/\/____/ \/_____/\ \ \/ \/____/\/___/  \/_/\/__/     \/_/  \/_/ \/___/      
                                                          \ \_\                                                       
                                                           \/_/                                              
-
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+        
+    By Md. Najib Islam (DeveloperNajib)
 
 """
 
@@ -143,8 +144,7 @@ banner11 = f"""
     /_/     /_/ /_/\____//_/ /_/\___//____/ _  .___//_/  \____//_/  \__/        /_/     /_/    \____/
                                             /_/                                                      
 
-
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+    By Md. Najib Islam (DeveloperNajib)
 
 """
 
@@ -153,9 +153,8 @@ banner12 = f"""
         ▒█▀▀█ █░░█ █▀▀█ █▀▀▄ █▀▀ ▒█▀▀▀█ █▀▀█ █░░ █▀▀█ ░▀░ ▀▀█▀▀ 　 ▒█▀▀█ █▀▀█ █▀▀█ 
         ▒█▄▄█ █▀▀█ █░░█ █░░█ █▀▀ ░▀▀▀▄▄ █░░█ █░░ █░░█ ▀█▀ ░░█░░ 　 ▒█▄▄█ █▄▄▀ █░░█ 
         ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
-
-
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+    
+    By Md. Najib Islam (DeveloperNajib)
 
 """
 banner_list = [
